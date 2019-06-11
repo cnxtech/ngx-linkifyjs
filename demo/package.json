@@ -75,7 +75,7 @@
     "tsickle": "^0.33.1",
     "tslint": "~5.11.0",
     "typescript": "~3.1.6",
-    "webpack-cli": "^3.3.0"
+    "webpack-cli": "^3.3.4"
   },
   "jest": {
     "preset": "jest-preset-angular",
