@@ -39,7 +39,7 @@
   },
   "dependencies": {
     "@angular/common": "^7.2.9",
-    "@angular/core": "^7.2.9",
+    "@angular/core": "^11.0.5",
     "linkifyjs": "^2.1.8"
   },
   "devDependencies": {
